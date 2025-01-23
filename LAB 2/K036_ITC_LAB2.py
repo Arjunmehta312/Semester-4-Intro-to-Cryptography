@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # INTRODUCTION TO CRYPTOGRAPHY LAB 1
+# # INTRODUCTION TO CRYPTOGRAPHY LAB 2
 
 # ## Arjun Mehta
 # ## K036
